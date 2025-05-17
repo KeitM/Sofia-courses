@@ -1,5 +1,6 @@
 print("Добро пожаловать в игру")
-player_name = input()
+
 
 print("Введи своё имя")
+player_name = input()
 print(f"Привествую тебя, {player_name}")
